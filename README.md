@@ -1,2 +1,2 @@
-# DirectoryParser
-Enumerate directories in Python
+# Analyseur d'annuaire
+Énumérer les répertoires en Python
